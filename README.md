@@ -31,23 +31,35 @@ Handles Common Queries: Designed to address questions like:
 Responds to single words like "workout", "meals", "sleep", "strength", "cardio", etc.
 
 💻 How to Run the Python Chatbot Locally
+
 Prerequisites:
+
 Python 3.x installed on your system.
 
 
 Run the Chatbot: Navigate to the directory containing chatbot.py in your terminal and execute:
+
 python chatbot.py
 
+
 Interact: Type your fitness-related questions in the terminal, and the chatbot will respond! Type bye or exit to end the conversation.
+
 💡 Future Enhancements (Roadmap for Growth)
 
 This project lays the groundwork for exploring more advanced AI concepts. Future improvements could include:
 
 Intent Recognition with Machine Learning: Transition from rigid rules to ML models for more intelligent understanding of user intent.
+
 Entity Extraction: Develop capabilities to identify and extract key pieces of information (e.g., specific exercises, food types) from user queries.
+
 Advanced Context Management: Implement a robust system to remember and utilize conversational history for more coherent and personalized interactions.
+
 Integration with APIs: Connect to external fitness APIs for real-time data, such as calorie databases or detailed exercise instructions.
+
 Web Interface: Build a full-fledged web application (e.g., using Flask or a frontend framework) to make the chatbot accessible via a browser.
+
 Database Integration: Incorporate a database to store user preferences, progress, or custom fitness plans.
+
 🙏 Acknowledgements
+
 Inspired by the principles of simple conversational AI.
